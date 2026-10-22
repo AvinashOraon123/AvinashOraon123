@@ -1,80 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 424 438" width="424" height="438" font-family="Consolas, Menlo, Courier New, monospace" font-size="10">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 424 356" width="424" height="356" font-family="Consolas, Menlo, Courier New, monospace" font-size="10">
 <style>text{white-space:pre}</style>
 <rect width="100%" height="100%" rx="8" fill="#050505"/>
-<text xml:space="preserve" x="14" y="20" fill="#b4b4b4" textLength="396">+----------------------------------------------------------------+</text>
-<text xml:space="preserve" x="14" y="32" fill="#b4b4b4" textLength="396">|                                     .    .                     |</text>
-<text xml:space="preserve" x="14" y="44" fill="#b4b4b4" textLength="396">|   . .          .          .       . . . . .                    |</text>
-<text xml:space="preserve" x="14" y="56" fill="#b4b4b4" textLength="396">|                     .     +    . . .#######. . .               |</text>
-<text xml:space="preserve" x="14" y="68" fill="#b4b4b4" textLength="396">|    .   *           +        . . ############### . .            |</text>
-<text xml:space="preserve" x="14" y="80" fill="#b4b4b4" textLength="396">|                            ..####^#%%%%%%%%%###### .           |</text>
-<text xml:space="preserve" x="14" y="92" fill="#b4b4b4" textLength="396">|             .             . ####/ \%%%%%:::%%%%#### .   *      |</text>
-<text xml:space="preserve" x="14" y="104" fill="#b4b4b4" textLength="396">|                   .      .#####/ * \:@@@@@%%%%%%#####.         |</text>
-<text xml:space="preserve" x="14" y="116" fill="#b4b4b4" textLength="396">|              *      .   . ###%/ *  *\:@@@@@@@%%%%%### .    .   |</text>
-<text xml:space="preserve" x="14" y="128" fill="#b4b4b4" textLength="396">|      .             .   . ###/         \@@@@@@@%%%%#### .  .    |</text>
-<text xml:space="preserve" x="14" y="140" fill="#b4b4b4" textLength="396">|                        ..##/           \@@@@@@%%%%####.        |</text>
-<text xml:space="preserve" x="14" y="152" fill="#b4b4b4" textLength="396">|                        . #/             \@@@@@%%%%#### .       |</text>
-<text xml:space="preserve" x="14" y="164" fill="#b4b4b4" textLength="396">|            +            /                 \::%%%%%### .        |</text>
-<text xml:space="preserve" x="14" y="176" fill="#b4b4b4" textLength="396">|                        /                   \%%%%#####.         |</text>
-<text xml:space="preserve" x="14" y="188" fill="#b4b4b4" textLength="396">|    .                  /                     \%%#### .          |</text>
-<text xml:space="preserve" x="14" y="200" fill="#b4b4b4" textLength="396">|                     /                         \### .           |</text>
-<text xml:space="preserve" x="14" y="212" fill="#b4b4b4" textLength="396">|                    /                           \. .            |</text>
-<text xml:space="preserve" x="14" y="224" fill="#b4b4b4" textLength="396">|      ^        ^   /    ^        ^        ^      \ ^        ^   |</text>
-<text xml:space="preserve" x="14" y="236" fill="#b4b4b4" textLength="396">|     / \               / \      / \  . . / \      / \      / \  |</text>
-<text xml:space="preserve" x="14" y="248" fill="#b4b4b4" textLength="396">|    /                 /   \    /   \    /   \    /   \    /   \ |</text>
-<text xml:space="preserve" x="14" y="260" fill="#b4b4b4" textLength="396">| ^                      |   ^    |   ^    |   ^    |   ^    |   |</text>
-<text xml:space="preserve" x="14" y="272" fill="#b4b4b4" textLength="396">|/ \                        / \      / \      / \      / \       |</text>
-<text xml:space="preserve" x="14" y="284" fill="#b4b4b4" textLength="396">|                          /   \    /   \    /   \    /   \      |</text>
-<text xml:space="preserve" x="14" y="296" fill="#b4b4b4" textLength="396">| |                     ^    |   ^    |   ^    |   ^    |   ^    |</text>
-<text xml:space="preserve" x="14" y="308" fill="#b4b4b4" textLength="396">|                      / \      / \      / \      / \      / \   |</text>
-<text xml:space="preserve" x="14" y="320" fill="#b4b4b4" textLength="396">|   /                 /   \    /   \    /   \    /   \    /   \  |</text>
-<text xml:space="preserve" x="14" y="332" fill="#b4b4b4" textLength="396">|     |                 |        |        |        |        |    |</text>
-<text xml:space="preserve" x="14" y="344" fill="#b4b4b4" textLength="396">|__________________________                                      |</text>
-<text xml:space="preserve" x="14" y="356" fill="#b4b4b4" textLength="396">|#%#%#%#%#%#%#%#%#%#%#%#%#%                                      |</text>
-<text xml:space="preserve" x="14" y="368" fill="#b4b4b4" textLength="396">|%#%#%#%#%#%#%#%#%#%#%#%#%#                                      |</text>
-<text xml:space="preserve" x="14" y="380" fill="#b4b4b4" textLength="396">|#%#%#%#%#%#%#%#%#%#%#%#%#%======================================|</text>
-<text xml:space="preserve" x="14" y="392" fill="#b4b4b4" textLength="396">+----------------------------------------------------------------+</text>
-<g opacity="1"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.5;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/>
-<text x="104" y="284" fill="#ffffff" font-weight="bold" textLength="6">/</text>
-<text x="110" y="284" fill="#ffffff" font-weight="bold" textLength="6">/</text>
-<text x="86" y="296" fill="#ffffff" font-weight="bold" textLength="6">#</text>
-<text x="104" y="296" fill="#ffffff" font-weight="bold" textLength="6">o</text>
-<text x="110" y="296" fill="#ffffff" font-weight="bold" textLength="6">8</text>
-<text x="80" y="308" fill="#ffffff" font-weight="bold" textLength="6">[</text>
-<text x="86" y="308" fill="#ffffff" font-weight="bold" textLength="6">#</text>
-<text x="92" y="308" fill="#ffffff" font-weight="bold" textLength="6">]</text>
-<text x="98" y="308" fill="#ffffff" font-weight="bold" textLength="6">/</text>
-<text x="104" y="308" fill="#ffffff" font-weight="bold" textLength="6">|</text>
-<text x="86" y="320" fill="#ffffff" font-weight="bold" textLength="6">#</text>
-<text x="98" y="320" fill="#ffffff" font-weight="bold" textLength="6">|</text>
-<text x="92" y="332" fill="#ffffff" font-weight="bold" textLength="6">/</text>
-<text x="104" y="332" fill="#ffffff" font-weight="bold" textLength="6">\</text>
-<text x="140" y="284" fill="#ffffff" font-weight="bold" textLength="6">*</text>
-<text x="152" y="272" fill="#ffffff" font-weight="bold" textLength="6">.</text>
-<text x="164" y="260" fill="#ffffff" font-weight="bold" textLength="6">*</text>
-<text x="176" y="248" fill="#ffffff" font-weight="bold" textLength="6">.</text>
-<text x="188" y="236" fill="#ffffff" font-weight="bold" textLength="6">*</text>
-<text x="200" y="224" fill="#ffffff" font-weight="bold" textLength="6">.</text>
-<text x="212" y="212" fill="#ffffff" font-weight="bold" textLength="6">*</text>
-<text x="224" y="200" fill="#ffffff" font-weight="bold" textLength="6">.</text>
-<text x="212" y="426" fill="#d0d0d0" text-anchor="middle" font-size="10">looking up... scouting the peak</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5;1" calcMode="discrete" dur="5s" repeatCount="indefinite"/>
-<text x="86" y="296" fill="#ffffff" font-weight="bold" textLength="6">#</text>
-<text x="104" y="296" fill="#ffffff" font-weight="bold" textLength="6">o</text>
-<text x="80" y="308" fill="#ffffff" font-weight="bold" textLength="6">[</text>
-<text x="86" y="308" fill="#ffffff" font-weight="bold" textLength="6">#</text>
-<text x="92" y="308" fill="#ffffff" font-weight="bold" textLength="6">]</text>
-<text x="98" y="308" fill="#ffffff" font-weight="bold" textLength="6">/</text>
-<text x="104" y="308" fill="#ffffff" font-weight="bold" textLength="6">|</text>
-<text x="86" y="320" fill="#ffffff" font-weight="bold" textLength="6">#</text>
-<text x="98" y="320" fill="#ffffff" font-weight="bold" textLength="6">|</text>
-<text x="104" y="320" fill="#ffffff" font-weight="bold" textLength="6">8</text>
-<text x="110" y="320" fill="#ffffff" font-weight="bold" textLength="6">8</text>
-<text x="92" y="332" fill="#ffffff" font-weight="bold" textLength="6">/</text>
-<text x="104" y="332" fill="#ffffff" font-weight="bold" textLength="6">\</text>
-<text x="146" y="332" fill="#ffffff" font-weight="bold" textLength="6">*</text>
-<text x="158" y="344" fill="#ffffff" font-weight="bold" textLength="6">.</text>
-<text x="170" y="356" fill="#ffffff" font-weight="bold" textLength="6">*</text>
-<text x="212" y="426" fill="#d0d0d0" text-anchor="middle" font-size="10">looking down... checking the trail</text>
-</g>
+<text xml:space="preserve" x="14" y="20" fill="#9a9a9a" textLength="396">+----------------------------------------------------------------+</text>
+<text xml:space="preserve" x="14" y="32" fill="#9a9a9a" textLength="396">|                                      .                 .       |</text>
+<text xml:space="preserve" x="14" y="44" fill="#9a9a9a" textLength="396">|                               . . . .#. . . .   .              |</text>
+<text xml:space="preserve" x="14" y="56" fill="#9a9a9a" textLength="396">|    .    . .  *      .      . .#######^#######. .       .       |</text>
+<text xml:space="preserve" x="14" y="68" fill="#9a9a9a" textLength="396">|                     .     . ######%%%\%%%###### ..          *  |</text>
+<text xml:space="preserve" x="14" y="80" fill="#9a9a9a" textLength="396">|    .                     .#####%%%%%/ \::%%%#####.             |</text>
+<text xml:space="preserve" x="14" y="92" fill="#9a9a9a" textLength="396">|  .  .              +    .####%%%:::/  *\%%%%%%####.            |</text>
+<text xml:space="preserve" x="14" y="104" fill="#9a9a9a" textLength="396">|             .  .       .####%%%:::/     \@%%%%%####.      .    |</text>
+<text xml:space="preserve" x="14" y="116" fill="#9a9a9a" textLength="396">|  +                 *  .+###%%%%%:/       \@%%%%%### .          |</text>
+<text xml:space="preserve" x="14" y="128" fill="#9a9a9a" textLength="396">|                      . ####%%%%@/         \@%%%%#### .         |</text>
+<text xml:space="preserve" x="14" y="140" fill="#9a9a9a" textLength="396">| *     .               . ###%%%%/           \%%%%### .          |</text>
+<text xml:space="preserve" x="14" y="152" fill="#9a9a9a" textLength="396">|                        .####%%/             \%%####.    *      |</text>
+<text xml:space="preserve" x="14" y="164" fill="#9a9a9a" textLength="396">| .                     + .####/               \####.         .  |</text>
+<text xml:space="preserve" x="14" y="176" fill="#9a9a9a" textLength="396">|                          .##/                 \##.             |</text>
+<text xml:space="preserve" x="14" y="188" fill="#9a9a9a" textLength="396">|                           ./                   \.              |</text>
+<text xml:space="preserve" x="14" y="200" fill="#9a9a9a" textLength="396">|                       ^    ^ .##^####^####^##. ^    ^    ^    ^|</text>
+<text xml:space="preserve" x="14" y="212" fill="#9a9a9a" textLength="396">|         _______      / \  / \ ./.\. /#\ ./.\. / \  / \  / \  / |</text>
+<text xml:space="preserve" x="14" y="224" fill="#9a9a9a" textLength="396">|       //#%#%#%#\\   /   \/   \/   \/ . \/   \/   \/   \/   \/  |</text>
+<text xml:space="preserve" x="14" y="236" fill="#9a9a9a" textLength="396">|     //%#%#%#%#%#%\\   | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  ||</text>
+<text xml:space="preserve" x="14" y="248" fill="#9a9a9a" textLength="396">|    /#%#%#%#%#%#%#%#\   / \  / \  / \  / \  / \  / \  / \  / \  |</text>
+<text xml:space="preserve" x="14" y="260" fill="#9a9a9a" textLength="396">|   /#%#%#%#%#%#%#%#%#\ /   \/   \/   \/   \/   \/   \/   \/   \/|</text>
+<text xml:space="preserve" x="14" y="272" fill="#9a9a9a" textLength="396">|  /#%#%#%#%#%#%#%#%#%#\  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^ |</text>
+<text xml:space="preserve" x="14" y="284" fill="#9a9a9a" textLength="396">| /#%#%#%#%#%#%#%#%#%#%#\  / \  / \  / \  / \  / \  / \  / \  / \|</text>
+<text xml:space="preserve" x="14" y="296" fill="#9a9a9a" textLength="396">|/#%#%#%#%#%#%#%#%#%#%#%#\/   \/   \/   \/   \/   \/   \/   \/   |</text>
+<text xml:space="preserve" x="14" y="308" fill="#9a9a9a" textLength="396">|#%#%#%#%#%#%#%#%#%#%#%#%#\ |    |    |    |    |    |    |    | |</text>
+<text xml:space="preserve" x="14" y="320" fill="#9a9a9a" textLength="396">+----------------------------------------------------------------+</text>
+<text x="92.0" y="176" fill="#ffffff" font-weight="bold" textLength="6">o</text>
+<text x="98.0" y="176" fill="#ffffff" font-weight="bold" textLength="6">/</text>
+<text x="86.0" y="188" fill="#ffffff" font-weight="bold" textLength="6">/</text>
+<text x="92.0" y="188" fill="#ffffff" font-weight="bold" textLength="6">|</text>
+<text x="86.0" y="200" fill="#ffffff" font-weight="bold" textLength="6">/</text>
+<text x="98.0" y="200" fill="#ffffff" font-weight="bold" textLength="6">\</text>
+<g opacity="1"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0s" repeatCount="indefinite"/><text x="50.0" y="56" fill="#ffffff" font-weight="bold" textLength="6">\</text><text x="56.0" y="56" fill="#ffffff" font-weight="bold" textLength="6">.</text><text x="62.0" y="56" fill="#ffffff" font-weight="bold" textLength="6">/</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0s" repeatCount="indefinite"/><text x="50.0" y="56" fill="#ffffff" font-weight="bold" textLength="6">/</text><text x="56.0" y="56" fill="#ffffff" font-weight="bold" textLength="6">'</text><text x="62.0" y="56" fill="#ffffff" font-weight="bold" textLength="6">\</text></g>
+<g opacity="1"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0.25s" repeatCount="indefinite"/><text x="122.0" y="80" fill="#ffffff" font-weight="bold" textLength="6">\</text><text x="128.0" y="80" fill="#ffffff" font-weight="bold" textLength="6">.</text><text x="134.0" y="80" fill="#ffffff" font-weight="bold" textLength="6">/</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0.25s" repeatCount="indefinite"/><text x="122.0" y="80" fill="#ffffff" font-weight="bold" textLength="6">/</text><text x="128.0" y="80" fill="#ffffff" font-weight="bold" textLength="6">'</text><text x="134.0" y="80" fill="#ffffff" font-weight="bold" textLength="6">\</text></g>
+<g opacity="1"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0.45s" repeatCount="indefinite"/><text x="68.0" y="116" fill="#ffffff" font-weight="bold" textLength="6">\</text><text x="74.0" y="116" fill="#ffffff" font-weight="bold" textLength="6">.</text><text x="80.0" y="116" fill="#ffffff" font-weight="bold" textLength="6">/</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0.45s" repeatCount="indefinite"/><text x="68.0" y="116" fill="#ffffff" font-weight="bold" textLength="6">/</text><text x="74.0" y="116" fill="#ffffff" font-weight="bold" textLength="6">'</text><text x="80.0" y="116" fill="#ffffff" font-weight="bold" textLength="6">\</text></g>
+<g opacity="1"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0.15s" repeatCount="indefinite"/><text x="344.0" y="68" fill="#ffffff" font-weight="bold" textLength="6">\</text><text x="350.0" y="68" fill="#ffffff" font-weight="bold" textLength="6">.</text><text x="356.0" y="68" fill="#ffffff" font-weight="bold" textLength="6">/</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" calcMode="discrete" dur="0.7s" begin="0.15s" repeatCount="indefinite"/><text x="344.0" y="68" fill="#ffffff" font-weight="bold" textLength="6">/</text><text x="350.0" y="68" fill="#ffffff" font-weight="bold" textLength="6">'</text><text x="356.0" y="68" fill="#ffffff" font-weight="bold" textLength="6">\</text></g>
+<text x="212" y="347" fill="#c8c8c8" text-anchor="middle" font-size="10">searching for the peak</text>
 </svg>
