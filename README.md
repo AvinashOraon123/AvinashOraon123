@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=1b4332,2d6a4f,52b788,b7e4c7&section=header&text=Avinash%20Oraon&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20in%20the%20woods%20%C2%B7%20Machine%20Learning%20x%20Mechanical%20Engineering&descSize=17&descAlignY=58)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1b4332,50:2d6a4f,100:74c69d&section=header&text=Avinash%20Oraon&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20in%20the%20woods%20%C2%B7%20Machine%20Learning%20x%20Mechanical%20Engineering&descSize=17&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=52B788&width=620&lines=Dual+Degree+%40+IIT+Kharagpur;Machine+Learning+%7C+Data+Science+%7C+Manufacturing;Turning+data+into+decisions%2C+one+trail+at+a+time)](https://github.com/AvinashOraon123)
 
@@ -41,4 +41,4 @@ I'm a 5-year dual degree student at **IIT Kharagpur** — **B.Tech (Hons.) in Me
 
 ![Streak](https://streak-stats.demolab.com?user=AvinashOraon123&hide_border=true&background=0d1b14&stroke=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=95d5b2&sideLabels=d8f3dc&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=1b4332,2d6a4f,52b788,b7e4c7&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1b4332,50:2d6a4f,100:74c69d&section=footer)
