@@ -4,7 +4,7 @@
 
 ### 🥾 The expedition
 
-![Explorer scouting the peak at night](https://raw.githubusercontent.com/AvinashOraon123/AvinashOraon123/main/explorer-night.svg?v=8)
+![Explorer scouting the peak at night](https://raw.githubusercontent.com/AvinashOraon123/AvinashOraon123/main/explorer-night.svg?v=9)
 
 *An explorer in the woods, still searching for the peak.*
 
