@@ -1,12 +1,8 @@
+<p align="center"><img src="https://raw.githubusercontent.com/AvinashOraon123/AvinashOraon123/main/explorer-scene2.svg" width="520" alt="Explorer scouting the peak at night"></p>
+
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1b4332,50:2d6a4f,100:74c69d&section=header&text=Avinash%20Oraon&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20in%20the%20woods%20%C2%B7%20Machine%20Learning%20x%20Mechanical%20Engineering&descSize=17&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=52B788&width=620&lines=Dual+Degree+%40+IIT+Kharagpur;Machine+Learning+%7C+Data+Science+%7C+Manufacturing;Turning+data+into+decisions%2C+one+trail+at+a+time)](https://github.com/AvinashOraon123)
-
-### 🥾 The expedition
-
-![Explorer scouting the peak at night](https://raw.githubusercontent.com/AvinashOraon123/AvinashOraon123/main/explorer-scene.svg)
-
-*An explorer in the woods, still searching for the peak.*
 
 ---
 
