@@ -4,7 +4,7 @@
 
 ### 🥾 The expedition
 
-![Explorer scouting the peak](https://raw.githubusercontent.com/AvinashOraon123/AvinashOraon123/main/explorer.svg?v=2)
+![Explorer scouting the peak](https://raw.githubusercontent.com/AvinashOraon123/AvinashOraon123/main/explorer.svg?v=3)
 
 *An explorer in the woods, still searching for the peak.*
 
