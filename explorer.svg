@@ -29,23 +29,24 @@
 <text xml:space="preserve" x="30" y="396.5" fill="#387459" textLength="561.6">|%#%#%#%#%#%#%#%#%#%#%#%#%#//^\////^\\///^\//^///^\\\////^\\###==////^\|</text>
 <text xml:space="preserve" x="30" y="412.0" fill="#336f54" textLength="561.6">|%###%###%###%###%###%###%###%##%##%##%##%##%##%##%##%##%##%##%##%##%##|</text>
 <text xml:space="preserve" x="30" y="427.5" fill="#2d6a4f" textLength="561.6">+----------------------------------------------------------------------+</text>
-<text xml:space="preserve" x="30" y="71.0" fill="#f4a261" font-weight="bold" textLength="561.6">                                                    *                   </text>
-<text xml:space="preserve" x="30" y="86.5" fill="#f4a261" font-weight="bold" textLength="561.6">                                                 *                      </text>
-<text xml:space="preserve" x="30" y="102.0" fill="#f4a261" font-weight="bold" textLength="561.6">                                              *                         </text>
-<text xml:space="preserve" x="30" y="117.5" fill="#f4a261" font-weight="bold" textLength="561.6">                                           *                            </text>
-<text xml:space="preserve" x="30" y="133.0" fill="#f4a261" font-weight="bold" textLength="561.6">                                        *                               </text>
-<text xml:space="preserve" x="30" y="148.5" fill="#f4a261" font-weight="bold" textLength="561.6">                                     *                                  </text>
-<text xml:space="preserve" x="30" y="164.0" fill="#f4a261" font-weight="bold" textLength="561.6">                                  *                                     </text>
-<text xml:space="preserve" x="30" y="179.5" fill="#f4a261" font-weight="bold" textLength="561.6">                               *                                        </text>
-<text xml:space="preserve" x="30" y="195.0" fill="#f4a261" font-weight="bold" textLength="561.6">                            *                                           </text>
-<text xml:space="preserve" x="30" y="210.5" fill="#f4a261" font-weight="bold" textLength="561.6">                         *                                              </text>
-<text xml:space="preserve" x="30" y="226.0" fill="#f4a261" font-weight="bold" textLength="561.6">                      *                                                 </text>
-<text xml:space="preserve" x="30" y="241.5" fill="#f4a261" font-weight="bold" textLength="561.6">                //                                                      </text>
-<text xml:space="preserve" x="30" y="257.0" fill="#f4a261" font-weight="bold" textLength="561.6">              8=8/                                                      </text>
-<text xml:space="preserve" x="30" y="272.5" fill="#f4a261" font-weight="bold" textLength="561.6">               o                                                        </text>
-<text xml:space="preserve" x="30" y="288.0" fill="#f4a261" font-weight="bold" textLength="561.6">              /|\                                                       </text>
-<text xml:space="preserve" x="30" y="303.5" fill="#f4a261" font-weight="bold" textLength="561.6">               |                                                        </text>
-<text xml:space="preserve" x="30" y="319.0" fill="#f4a261" font-weight="bold" textLength="561.6">              / \                                                       </text>
+<text x="435.6" y="71.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="412.2" y="86.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="388.8" y="102.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="365.4" y="117.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="342.0" y="133.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="318.6" y="148.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="295.2" y="164.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="271.8" y="179.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="248.4" y="195.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="225.0" y="210.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="201.6" y="226.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="154.8" y="241.5" fill="#f4a261" font-weight="bold" textLength="15.6">//</text>
+<text x="139.2" y="257.0" fill="#f4a261" font-weight="bold" textLength="31.2">8=8/</text>
+<text x="147.0" y="272.5" fill="#f4a261" font-weight="bold" textLength="7.8">o</text>
+<text x="139.2" y="288.0" fill="#f4a261" font-weight="bold" textLength="23.4">/|\</text>
+<text x="147.0" y="303.5" fill="#f4a261" font-weight="bold" textLength="7.8">|</text>
+<text x="139.2" y="319.0" fill="#f4a261" font-weight="bold" textLength="7.8">/</text>
+<text x="154.8" y="319.0" fill="#f4a261" font-weight="bold" textLength="7.8">\</text>
 <text x="310.5" y="469" fill="#95d5b2" text-anchor="middle" font-size="14">looking up... scouting the peak</text>
 </g>
 <g opacity="0">
@@ -76,14 +77,18 @@
 <text xml:space="preserve" x="30" y="396.5" fill="#387459" textLength="561.6">|%#%#%#%#%#%#%#%#%#%#%#%#%#//^\////^\\///^\//^///^\\\////^\\###==////^\|</text>
 <text xml:space="preserve" x="30" y="412.0" fill="#336f54" textLength="561.6">|%###%###%###%###%###%###%###%##%##%##%##%##%##%##%##%##%##%##%##%##%##|</text>
 <text xml:space="preserve" x="30" y="427.5" fill="#2d6a4f" textLength="561.6">+----------------------------------------------------------------------+</text>
-<text xml:space="preserve" x="30" y="241.5" fill="#f4a261" font-weight="bold" textLength="561.6">               o                                                        </text>
-<text xml:space="preserve" x="30" y="257.0" fill="#f4a261" font-weight="bold" textLength="561.6">              /|                                                        </text>
-<text xml:space="preserve" x="30" y="272.5" fill="#f4a261" font-weight="bold" textLength="561.6">              8=8                                                       </text>
-<text xml:space="preserve" x="30" y="288.0" fill="#f4a261" font-weight="bold" textLength="561.6">               |\      *                                                </text>
-<text xml:space="preserve" x="30" y="303.5" fill="#f4a261" font-weight="bold" textLength="561.6">               |          *                                             </text>
-<text xml:space="preserve" x="30" y="319.0" fill="#f4a261" font-weight="bold" textLength="561.6">              / \            *                                          </text>
-<text xml:space="preserve" x="30" y="334.5" fill="#f4a261" font-weight="bold" textLength="561.6">                                *                                       </text>
-<text xml:space="preserve" x="30" y="350.0" fill="#f4a261" font-weight="bold" textLength="561.6">                                   *                                    </text>
+<text x="147.0" y="241.5" fill="#f4a261" font-weight="bold" textLength="7.8">o</text>
+<text x="139.2" y="257.0" fill="#f4a261" font-weight="bold" textLength="15.6">/|</text>
+<text x="139.2" y="272.5" fill="#f4a261" font-weight="bold" textLength="23.4">8=8</text>
+<text x="147.0" y="288.0" fill="#f4a261" font-weight="bold" textLength="15.6">|\</text>
+<text x="209.4" y="288.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="147.0" y="303.5" fill="#f4a261" font-weight="bold" textLength="7.8">|</text>
+<text x="232.8" y="303.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="139.2" y="319.0" fill="#f4a261" font-weight="bold" textLength="7.8">/</text>
+<text x="154.8" y="319.0" fill="#f4a261" font-weight="bold" textLength="7.8">\</text>
+<text x="256.2" y="319.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="279.6" y="334.5" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
+<text x="303.0" y="350.0" fill="#f4a261" font-weight="bold" textLength="7.8">*</text>
 <text x="310.5" y="469" fill="#95d5b2" text-anchor="middle" font-size="14">looking down... checking the trail</text>
 </g>
 </svg>
