@@ -4,13 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=52B788&width=620&lines=Dual+Degree+%40+IIT+Kharagpur;Machine+Learning+%7C+Data+Science+%7C+Manufacturing;Turning+data+into+decisions%2C+one+trail+at+a+time)](https://github.com/AvinashOraon123)
 
+<p align="center"><em>Chill by nature, drawn to hard problems. Exploring data science, AI and ML, one trail at a time.</em></p>
+
 ---
 
 ### 🌲 About me
 
-I'm a 5-year dual degree student at **IIT Kharagpur** — **B.Tech (Hons.) in Mechanical Engineering + M.Tech in Manufacturing Science and Engineering** (class of 2027). I like working where data meets the physical world: ML for industrial problems, computer vision, and building tools that make complex things simple.
+I'm a 5-year dual degree student at **IIT Kharagpur** (**B.Tech Hons. in Mechanical Engineering + M.Tech in Manufacturing Science and Engineering**, class of 2027). I like working where data meets the physical world: ML for industrial problems, computer vision, and tools that make complex things simple. I keep a calm head and pick the difficult challenges on purpose.
 
-🌱 **Learning:** Deep Learning, Computer Vision, and DSA
+🌱 **Learning:** Deep Learning, Computer Vision, LLM tooling (LangChain, LangGraph, LangSmith) and DSA
 
 🔭 **Exploring:** ML for manufacturing, defect detection and predictive maintenance
 
@@ -18,15 +20,27 @@ I'm a 5-year dual degree student at **IIT Kharagpur** — **B.Tech (Hons.) in Me
 
 ---
 
-### 🏔️ Trail highlights
+### 🏔️ Summit attempts (featured projects)
 
 | Project | What it is |
 | --- | --- |
-| [**ML_Learning_Journey**](https://github.com/AvinashOraon123/ML_Learning_Journey) | Day-to-day progress in Machine Learning and Deep Learning |
+| [**yojana-saathi**](https://github.com/AvinashOraon123/yojana-saathi) | Multilingual portal for Indian government schemes, exams, scholarships and jobs, powered by Sarvam AI |
+| [**flowsight-ps3**](https://github.com/AvinashOraon123/flowsight-ps3) | Dwell-time and bottleneck mapper built for the Everseen CV AI Hackathon (PS3) |
 | [**pcb-defect-detection**](https://github.com/AvinashOraon123/pcb-defect-detection) | Computer vision for spotting PCB defects |
 | [**RUL-prediction-NASA-turbofan**](https://github.com/AvinashOraon123/RUL-prediction-NASA-turbofan) | Remaining-useful-life prediction on NASA turbofan data |
 | [**NL2SQL-AI-powered-Visualization**](https://github.com/AvinashOraon123/NL2SQL-AI-powered-Visualization) | Ask questions in plain English, get SQL and charts |
 | [**Amazon_ML_Challenge_team_GradientDescendants**](https://github.com/AvinashOraon123/Amazon_ML_Challenge_team_GradientDescendants) | Amazon ML Challenge team submission |
+
+### 🧭 Side trails
+
+| Project | What it is |
+| --- | --- |
+| [**cdc-deadline-status**](https://github.com/AvinashOraon123/cdc-deadline-status) | Chrome extension that colours IIT KGP ERP placement rows green/red by deadline, yellow when applied |
+| [**spendly**](https://github.com/AvinashOraon123/spendly) | Expense tracking app built with Claude Code |
+| [**Instacart-Customer-Behaviour-Analysis**](https://github.com/AvinashOraon123/Instacart-Customer-Behaviour-Analysis) | Customer behaviour analysis on Instacart data |
+| [**Image-Caption-Generator-Flickr30K**](https://github.com/AvinashOraon123/Image-Caption-Generator-Flickr30K) | Image caption generator trained on Flickr30K |
+| [**ML_Learning_Journey**](https://github.com/AvinashOraon123/ML_Learning_Journey) | Day-to-day progress in Machine Learning and Deep Learning |
+| [**Langchain_Tutorials**](https://github.com/AvinashOraon123/Langchain_Tutorials) | Notes and notebooks while learning LangChain (also see Langgraph_Tutorials and LangSmith_Tutorials) |
 | [**neetcode-submissions**](https://github.com/AvinashOraon123/neetcode-submissions) | My NeetCode.io problem solutions |
 
 ---
