@@ -53,7 +53,7 @@ I'm a 5-year dual degree student at **IIT Kharagpur** (**B.Tech Hons. in Mechani
 
 ### 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AvinashOraon123&show_icons=true&hide_border=true&bg_color=0d1b14&title_color=52b788&icon_color=95d5b2&text_color=d8f3dc&card_width=400) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashOraon123&layout=compact&hide_border=true&bg_color=0d1b14&title_color=52b788&text_color=d8f3dc&card_width=300)
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinashOraon123&theme=github_dark" width="49%" alt="Stats"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvinashOraon123&theme=github_dark" width="49%" alt="Top languages"></p>
 
 ![Streak](https://streak-stats.demolab.com?user=AvinashOraon123&hide_border=true&background=0d1b14&stroke=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=95d5b2&sideLabels=d8f3dc&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d)
 
