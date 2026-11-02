@@ -55,6 +55,6 @@ I'm a 5-year dual degree student at **IIT Kharagpur** (**B.Tech Hons. in Mechani
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinashOraon123&theme=github_dark" width="49%" alt="Stats"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvinashOraon123&theme=github_dark" width="49%" alt="Top languages"></p>
 
-![Streak](https://streak-stats.demolab.com?user=AvinashOraon123&hide_border=true&background=0d1b14&stroke=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=95d5b2&sideLabels=d8f3dc&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d)
+![Streak](https://streak-stats.demolab.com?user=AvinashOraon123&hide_border=true&background=0d1b14&stroke=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=95d5b2&sideLabels=d8f3dc&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d&cb=1102)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1b4332,50:2d6a4f,100:74c69d&section=footer)
