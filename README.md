@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=52B788&width=620&lines=Dual+Degree+%40+IIT+Kharagpur;Machine+Learning+%7C+Data+Science+%7C+Manufacturing;Turning+data+into+decisions%2C+one+trail+at+a+time)](https://github.com/AvinashOraon123)
 
-<p align="center"><em>Chill by nature, drawn to hard problems. Exploring data science, AI and ML, one trail at a time.</em></p>
+<p align="center"><em>Chill by nature, drawn to hard problems. Exploring data science, AI Engineering and ML, one trail at a time.</em></p>
 
 ---
 
