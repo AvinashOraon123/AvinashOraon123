@@ -8,7 +8,7 @@
 
 ---
 
-### 🌲 About me
+### 🌲 About myself
 
 I'm a 5-year dual degree student at **IIT Kharagpur** (**B.Tech Hons. in Mechanical Engineering + M.Tech in Manufacturing Science and Engineering**, class of 2027). I like working where data meets the physical world: ML for industrial problems, computer vision, and tools that make complex things simple. I keep a calm head and pick the difficult challenges on purpose.
 
